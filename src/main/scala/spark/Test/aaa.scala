@@ -6,5 +6,7 @@ package spark.Test
   * @Description:
   */
 object aaa {
-
+  def main(args: Array[String]): Unit = {
+    println("hello")
+  }
 }
